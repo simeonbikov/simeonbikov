@@ -26,7 +26,6 @@ a UK based Software Developer
 </a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
@@ -42,6 +41,8 @@ a UK based Software Developer
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
 </p>
+
+<br/>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=simeonbikov&show_icons=true&locale=en" alt="simeonbikov" />
