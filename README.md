@@ -8,7 +8,7 @@ Software Developer
 
 - 🚀 I like when my apps work well and look attractive 🎁
 
-- 🤝 I'm looking for opportunities to collaborate on some interesting projects
+- 🤝 I'm looking for opportunity to collaborate on some interesting project
 
 - 💬 Ask me about both the Front End and the Back End
 
