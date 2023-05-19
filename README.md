@@ -10,7 +10,7 @@ Software Developer
 
 - 🤝 I'm looking for opportunity to collaborate on some interesting project
 
-- 💬 Ask me about both the Front End and the Back End
+<!-- - 💬 Ask me about both the Front End and the Back End -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
